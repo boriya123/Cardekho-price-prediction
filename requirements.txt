@@ -30,7 +30,7 @@ six==1.15.0
 sklearn==0.0
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
 tornado==6.0.4
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==1.0.1
 wheel==0.34.2
 wincertstore==0.2
