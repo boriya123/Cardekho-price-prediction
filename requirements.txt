@@ -16,7 +16,7 @@ mkl-random==1.1.1
 mkl-service==2.3.0
 numpy==1.19.0
 pandas @ file:///C:/ci/pandas_1592841747005/work
-Pillow==7.2.0
+Pillow==9.3.0
 pip==20.1.1
 pyparsing==2.4.7
 python-dateutil==2.8.1
