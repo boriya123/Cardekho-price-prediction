@@ -25,7 +25,7 @@ requests==2.24.0
 scikit-learn @ file:///C:/ci/scikit-learn_1592847564598/work
 scipy==1.5.1
 seaborn==0.10.1
-setuptools==49.2.0.post20200714
+setuptools==65.5.1
 six==1.15.0
 sklearn==0.0
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
